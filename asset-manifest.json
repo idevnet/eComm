@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecomm/static/css/main.c85ecda0.chunk.css",
-    "main.js": "/ecomm/static/js/main.065d304e.chunk.js",
-    "main.js.map": "/ecomm/static/js/main.065d304e.chunk.js.map",
-    "runtime~main.js": "/ecomm/static/js/runtime~main.ce9976df.js",
-    "runtime~main.js.map": "/ecomm/static/js/runtime~main.ce9976df.js.map",
-    "static/js/2.12c3838e.chunk.js": "/ecomm/static/js/2.12c3838e.chunk.js",
-    "static/js/2.12c3838e.chunk.js.map": "/ecomm/static/js/2.12c3838e.chunk.js.map",
-    "index.html": "/ecomm/index.html",
-    "precache-manifest.9d0aeb004c942c78e8f5ac0fb1df5ef7.js": "/ecomm/precache-manifest.9d0aeb004c942c78e8f5ac0fb1df5ef7.js",
-    "service-worker.js": "/ecomm/service-worker.js",
-    "static/css/main.c85ecda0.chunk.css.map": "/ecomm/static/css/main.c85ecda0.chunk.css.map",
-    "static/media/online-shop.629c21bc.svg": "/ecomm/static/media/online-shop.629c21bc.svg",
-    "static/media/shopping-bag.30f07071.svg": "/ecomm/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/eComm/static/css/main.b22820a7.chunk.css",
+    "main.js": "/eComm/static/js/main.7e04d664.chunk.js",
+    "main.js.map": "/eComm/static/js/main.7e04d664.chunk.js.map",
+    "runtime~main.js": "/eComm/static/js/runtime~main.8bd8e402.js",
+    "runtime~main.js.map": "/eComm/static/js/runtime~main.8bd8e402.js.map",
+    "static/js/2.1694a899.chunk.js": "/eComm/static/js/2.1694a899.chunk.js",
+    "static/js/2.1694a899.chunk.js.map": "/eComm/static/js/2.1694a899.chunk.js.map",
+    "index.html": "/eComm/index.html",
+    "precache-manifest.dc171f7e549bc9136800cdc978779de3.js": "/eComm/precache-manifest.dc171f7e549bc9136800cdc978779de3.js",
+    "service-worker.js": "/eComm/service-worker.js",
+    "static/css/main.b22820a7.chunk.css.map": "/eComm/static/css/main.b22820a7.chunk.css.map",
+    "static/media/online-shop.629c21bc.svg": "/eComm/static/media/online-shop.629c21bc.svg",
+    "static/media/shopping-bag.30f07071.svg": "/eComm/static/media/shopping-bag.30f07071.svg"
   }
 }
